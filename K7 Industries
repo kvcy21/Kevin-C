@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>K7 Industries</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+<div class="container"><body>
+  <div class="nav">
+  <h2>Ollie</h2>
+  <ul>
+    <li>Sign up</li>
+    <li>Search artwork</li>
+    <li>Reserve a meeting</li>
+    <li>About us</li>
+	</ul>
+    <div class="main">
+  <h1>K7 Industries</h1>
+  <h3>Find the style you want.</h3>
+  <p>Need a new logo or redesign? Use K7 to find your perfect logo.
+</html>
